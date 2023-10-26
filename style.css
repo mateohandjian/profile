@@ -1,0 +1,22 @@
+img{
+    width: 150px;
+}
+
+hl{
+    font-size: 64px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    background-color: blue
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    margin: 12px;
+    transition: all 0.3s;
+}
+
+a:hover {
+    background-color: white
+    color: red;
